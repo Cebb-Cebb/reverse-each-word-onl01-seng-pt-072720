@@ -1,7 +1,7 @@
 def reverse_each_word(sentence1)
   new_array = []
   index = 0 
-  while index <sentence1.lenght
+  while index <sentence1.length
   new_array = sentence1{index} + new_array
   end
   return new_array
